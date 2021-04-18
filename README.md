@@ -1,16 +1,16 @@
 # earth-minecraft
 
-Table of contents
-=================
-
   * [Introduction](#introduction)
   * [Getting Started](#getting-started)
+   * [Creating a nation](#creating-a-nation)
 
-### Introduction
+## Introduction
 
 text text
 
-### Getting Started
+## Getting Started
+
+### Creating a nation
 
 text text
 
