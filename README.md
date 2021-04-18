@@ -3,6 +3,7 @@
   * [Introduction](#introduction)
   * [Getting Started](#getting-started)
     * [Creating a nation](#creating-a-nation)
+     
 
 ## Introduction
 
@@ -21,14 +22,23 @@ no existing nations.
 
 ### Creating a nation
 
-To create a nation you must specify upon three things:
+To create a nation you must decide upon three things:
 
 1. A name
-2. A banner design
+2. A banner
 3. An ideology
 
-Please note that the name and idology can change under certain conditions,
-the banner can not be changed unless two nations merge.
+Please note that while the name and ideology can be changed under certain conditions,
+the banner can not be changed.
+
+#### The Name
+
+You can name you nation whatever you want as long as the name
+
+* Contains only letters and no special characters (numbers are ok)
+* Isn't something offensive
+
+
 ```
   /trigger help
 ```
