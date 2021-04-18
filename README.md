@@ -2,7 +2,7 @@
 
   * [Introduction](#introduction)
   * [Getting Started](#getting-started)
-   * [Creating a nation](#creating-a-nation)
+    * [Creating a nation](#creating-a-nation)
 
 ## Introduction
 
