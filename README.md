@@ -41,14 +41,12 @@ You can name you nation whatever you want as long as the name
 
 #### The Banner
 
+Creating a banner can be done at [This Website](https://minecraft.tools/en/banner.php)
 
-
+Don't worry about what items are needed for the banner as you won't be crafting it anyway.
+You will be using the command
 
 ```
-  /trigger help
+  /trigger banner
 ```
----
-
-1. Apples
-2. Pears
-3. Bananas
+[More Info](#Commands)
