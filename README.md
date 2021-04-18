@@ -21,8 +21,14 @@ no existing nations.
 
 ### Creating a nation
 
-To create a n
+To create a nation you must specify upon three things:
 
+1. A name
+2. A banner design
+3. An ideology
+
+Please note that the name and idology can change under certain conditions,
+the banner can not be changed unless two nations merge.
 ```
   /trigger help
 ```
