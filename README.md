@@ -5,6 +5,7 @@
     * [Creating a nation](#creating-a-nation)
     * [Join an existing nation](#joining-an-existing-nation)
   * [Core Concepts](#core-concepts)
+    * [Time as a currency]
 
 ## Introduction
 
@@ -21,7 +22,7 @@ between the following two options:
 If the Join an existing one option isn't there it means there are
 no existing nations.
 
-### Creating A Nation
+### Creating a nation
 
 To create a nation you must decide upon three four things:
 
@@ -86,7 +87,7 @@ There is not rule that a nation can have that says you can't join it, except by 
 
 ## Core Concepts
 
-### Time As A Currency
+### Time as a currency
 
 If you press tab (the key above caps lock) in game it brings up a list of online players. Next to each player is a number that is constantly going up by one every second. Thus this number represents how many second that player has spent online.
 
@@ -98,7 +99,7 @@ Every real hour at hh:00 in a galaxy far far away the time shop opens where you 
   /trigger shop
 ```
 
-When someone is in the shop they can of course not be killed.
+When someone is in the shop they can not be killed.
 
 ## Commands
 
