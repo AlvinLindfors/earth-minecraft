@@ -7,3 +7,7 @@ text text
 ### Getting Started
 
 text text
+
+```
+  /trigger help
+```
