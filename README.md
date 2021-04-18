@@ -3,6 +3,7 @@
   * [Introduction](#introduction)
   * [Getting Started](#getting-started)
     * [Creating a nation](#creating-a-nation)
+    * [Join an existing nation](#joining-an-existing-nation)
      
 
 ## Introduction
@@ -20,16 +21,19 @@ between the following two options:
 If the Join an existing one option isn't there it means there are
 no existing nations.
 
-### Creating a nation
+### Creating A Nation
 
-To create a nation you must decide upon three things:
+To create a nation you must decide upon three four things:
 
 1. A name
 2. A banner
 3. An ideology
+4. The primary objective
 
 Please note that while the name and ideology can be changed under certain conditions,
 the banner can not be changed.
+
+The primary objective can always be changed.
 
 #### The Name
 
@@ -56,7 +60,10 @@ You will be using the command
 
 #### The Ideology
 
-Pick an ideology from [this list](https://en.wikipedia.org/wiki/List_of_political_ideologies)
+Pick an ideology from [This List](https://en.wikipedia.org/wiki/List_of_political_ideologies)
+
+It's important to remember that __the ideology you pick only serves as a book cover__ for those looking to join your nation
+The exact laws of your nation is not governed by a standard, though within reason you should still keep them relevant to your nations ideology.
 
 #### Submitting Your Nation
 
@@ -68,8 +75,16 @@ Example:
   Name: Finland
   Banner: /give @p minecraft:white_banner{BlockEntityTag:{Patterns:[{Color:11,Pattern:"sc"}]}}
   Ideology: Democracy
+  Objective: Form Great-Finland
 ```
 
 Please do not type anything other than nation submissions in the #nation-submission channel.
 
+### Joining an existing nation
+
+There is not rule that a nation can have that says you can't join it, except by admin interferance.
+
+## Core Concepts
+
 ## Commands
+
