@@ -43,10 +43,31 @@ You can name you nation whatever you want as long as the name
 
 Creating a banner can be done at [This Website](https://minecraft.tools/en/banner.php)
 
-Don't worry about what items are needed for the banner as you won't be crafting it anyway.
+Once you've created a banner click the CRAFT THE BANNER button and copy the /give command
+as you will need it later.
+
+Don't worry about what items are needed for the banner as __you won't be crafting it__.
 You will be using the command
 
 ```
   /trigger banner
 ```
-[More Info](#Commands)
+[More Info](#commands)
+
+#### The Ideology
+
+Pick an ideology from [this list](https://en.wikipedia.org/wiki/List_of_political_ideologies)
+
+#### Submitting Your Nation
+
+To submit you nation type the above mentioned information into the #nation-submission text channel in the discord server.
+
+Example:
+
+```
+  Name: Finland
+  Banner: /give @p minecraft:white_banner{BlockEntityTag:{Patterns:[{Color:11,Pattern:"sc"}]}}
+  Ideology: Democracy
+```
+
+## Commands
