@@ -4,7 +4,7 @@
   * [Getting Started](#getting-started)
     * [Creating a nation](#creating-a-nation)
     * [Join an existing nation](#joining-an-existing-nation)
-     
+  * [Core Concepts](#core-concepts)
 
 ## Introduction
 
@@ -85,6 +85,20 @@ Please do not type anything other than nation submissions in the #nation-submiss
 There is not rule that a nation can have that says you can't join it, except by admin interferance.
 
 ## Core Concepts
+
+### Time As A Currency
+
+If you press tab (the key above caps lock) in game it brings up a list of online players. Next to each player is a number that is constantly going up by one every second. Thus this number represents how many second that player has spent online.
+
+If a player is killed by another player then the time the killed player had on them is transfered to the killer. If you die on your own terms no time is lost or transfered.
+
+Every real hour at hh:00 in a galaxy far far away the time shop opens where you can spend time. It remains open for exactly one minute before closing. If it's open you can access it with the command
+
+```
+  /trigger shop
+```
+
+When someone is in the shop they can of course not be killed.
 
 ## Commands
 
