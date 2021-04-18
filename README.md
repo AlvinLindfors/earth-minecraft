@@ -70,4 +70,6 @@ Example:
   Ideology: Democracy
 ```
 
+Please do not type anything other than nation submissions in the #nation-submission channel.
+
 ## Commands
