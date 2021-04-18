@@ -1,5 +1,11 @@
 # earth-minecraft
 
+Table of contents
+=================
+
+  * [Introduction](#introduction)
+  * [Getting Started](#getting-started)
+
 ### Introduction
 
 text text
