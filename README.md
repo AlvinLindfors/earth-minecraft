@@ -35,8 +35,13 @@ the banner can not be changed.
 
 You can name you nation whatever you want as long as the name
 
-* Contains only letters and no special characters (numbers are ok)
+* Contains only letters, spaces, numbers, apostrophes and hyphens
 * Isn't something offensive
+* Is less than 50 characters long (including spaces)
+
+#### The Banner
+
+
 
 
 ```
