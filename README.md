@@ -87,17 +87,17 @@ It's important to consider the nations ideology when joining it.
 
 ### Time as a currency
 
-If you press tab (the key above caps lock) in game it brings up a list of online players. Next to each player is a number that is constantly going up by one every second. Thus this number represents how many second that player has spent online.
+If you press tab (the key above caps lock) in game it brings up a list of online players. Next to each player is a number that is constantly going up by one every second. Thus this number represents how many seconds that player has been online.
 
 If a player is killed by another player then the time the killed player had on them is transfered to the killer. If you die on your own terms no time is lost or transfered.
 
-Every real hour at hh:00 in a galaxy far far away the time shop opens where you can spend time. It remains open for exactly one minute before closing. If it's open you can access it with the command
+Every real hour at hh:00 in a galaxy far far away the time store opens where you can spend time. It remains open for exactly one minute before closing. If it's open you can access it with the command
 
 ```
-  /trigger shop
+  /trigger store
 ```
 
-When someone is in the shop they can not be killed.
+When someone is in the time store they can not be killed.
 
 ## Commands
 
