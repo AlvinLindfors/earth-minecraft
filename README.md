@@ -45,7 +45,7 @@ You can name you nation whatever you want as long as the name
 
 Creating a banner can be done at [This Website](https://www.planetminecraft.com/banner/)
 
-Once you've created a banner click the __{} Export JSON__ button and __COPY BANNER CODE__
+Once you've created a banner click the __{} Export JSON__ and __COPY BANNER CODE__ buttons
 as you will need it later.
 
 Don't worry about what items are needed for the banner as __you won't be crafting it__.
