@@ -3,7 +3,7 @@
   * [Introduction](#introduction)
   * [Getting Started](#getting-started)
     * [Creating a nation](#creating-a-nation)
-    * [Join an existing nation](#joining-an-existing-nation)
+    * [Joining an existing nation](#joining-an-existing-nation)
   * [Core Concepts](#core-concepts)
     * [Time as a currency](#time-as-a-currency)
 
