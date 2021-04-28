@@ -48,7 +48,7 @@ Creating a banner can be done at [This Website](https://www.planetminecraft.com/
 Once you've created a banner click the __{} Export JSON__ and __COPY BANNER CODE__ buttons
 as you will need it later.
 
-Don't worry about what items are needed for the banner or going over the craftin limit of 6 as __you won't be crafting it__.
+Don't worry about what items are needed for the banner or going over the crafting limit of 6 layers as __you won't be crafting it__.
 You will be using the command
 
 ```
@@ -99,7 +99,7 @@ Every real hour at hh:00 in a galaxy far far away the time store opens where you
   /trigger store
 ```
 
-To spend time you first need to convert it to the corresponding __bottled time__ item which can then be traded with the villagers. You can convert it in the store where there are four signs maked by four colours. If you right click any of them it turns your time into bottled time provided you have enough.
+To spend time you first need to convert it to the corresponding __bottled time__ item which can then be traded with the villagers in the store. You can convert it in the store where there are four signs maked by four colours. If you right click any of them it turns your time into bottled time provided you have enough.
 
 ## Commands
 
