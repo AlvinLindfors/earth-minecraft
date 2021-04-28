@@ -24,14 +24,14 @@ no existing nations.
 
 ### Creating a nation
 
-To create a nation you must decide upon three four things:
+To create a nation you must decide upon three three things:
 
 1. A name
 2. A banner
 3. An ideology
 
 Please note that while the name and ideology can be changed under certain conditions,
-the banner can not be changed.
+__the banner can not be changed__.
 
 #### The Name
 
@@ -48,7 +48,7 @@ Creating a banner can be done at [This Website](https://www.planetminecraft.com/
 Once you've created a banner click the __{} Export JSON__ and __COPY BANNER CODE__ buttons
 as you will need it later.
 
-Don't worry about what items are needed for the banner as __you won't be crafting it__.
+Don't worry about what items are needed for the banner or going over the craftin limit of 6 as __you won't be crafting it__.
 You will be using the command
 
 ```
@@ -65,7 +65,7 @@ The exact laws of your nation is not governed by a standard, though within reaso
 
 #### Submitting Your Nation
 
-To submit you nation type the above mentioned information into the #nation-submission text channel in the discord server.
+To submit your nation type all the information into the #nation-submission text channel in the discord server.
 
 Example:
 
@@ -79,7 +79,7 @@ Please do not type anything other than nation submissions in the #nation-submiss
 
 ### Joining an existing nation
 
-There is not rule that a nation can have that says you can't join it, except by admin interferance.
+There is no rule that a nation can have that says you can't join it, except by admin interferance.
 
 It's important to consider the nations ideology when joining it.
 
@@ -91,13 +91,15 @@ If you press tab (the key above caps lock) in game it brings up a list of online
 
 If a player is killed by another player then the time the killed player had on them is transfered to the killer. If you die on your own terms no time is lost or transfered.
 
+The player with the highest time gets an unremovable glowing effect to encourage others to seek out and kill them.
+
 Every real hour at hh:00 in a galaxy far far away the time store opens where you can spend time. It remains open for exactly one minute before closing. If it's open you can access it with the command
 
 ```
   /trigger store
 ```
 
-When someone is in the time store they can not be killed.
+To spend time you first need to convert it to the corresponding __bottled time__ item which can then be traded with the villagers. You can convert it in the store where there are four signs maked by four colours. If you right click any of them it turns your time into bottled time provided you have enough.
 
 ## Commands
 
