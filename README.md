@@ -27,8 +27,8 @@ no existing nations.
 To create a nation you must decide upon three three things:
 
 1. A name
-2. A banner
-3. An ideology
+2. An ideology
+3. A staring location
 
 Please note that while the name and ideology can be changed under certain conditions,
 __the banner can not be changed__.
@@ -40,6 +40,13 @@ You can name you nation whatever you want as long as the name
 * Contains only letters, spaces, numbers, apostrophes and hyphens
 * Isn't something offensive
 * Is less than 50 characters long (including spaces)
+
+#### The Ideology
+
+You can have any ideology as long as it's real.
+
+It's important to remember that __the ideology you pick only serves as a book cover__ for those looking to join your nation
+The exact laws of your nation is not governed by a standard, though within reason you should still keep them relevant to your nations ideology.
 
 #### The Banner
 
@@ -55,13 +62,6 @@ You will be using the command
   /trigger banner
 ```
 [More Info](#commands)
-
-#### The Ideology
-
-Pick an ideology from [This List](https://en.wikipedia.org/wiki/List_of_political_ideologies)
-
-It's important to remember that __the ideology you pick only serves as a book cover__ for those looking to join your nation
-The exact laws of your nation is not governed by a standard, though within reason you should still keep them relevant to your nations ideology.
 
 #### Submitting Your Nation
 
