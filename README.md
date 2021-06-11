@@ -1,4 +1,4 @@
-## Claims Map
+# Claims Map
 
 ![Claims Map](/earth-minecraft/Claims.svg)
 
